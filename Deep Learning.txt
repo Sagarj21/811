@@ -1,0 +1,29 @@
+Deep Learning:
+============
+Deep learning is a subfield of machine learning, which is a branch of artificial intelligence (AI). It focuses on training artificial neural networks to perform tasks, such as image and speech recognition, natural language understanding, and even playing games. The term "deep" in deep learning refers to the use of deep neural networks, which are composed of multiple layers of interconnected nodes (neurons).
+apps: Computer Vision,NLP,Speech Recognition,Healthcare,Recommendation Systems
+
+Machine Learning:
+=================
+Machine learning is a field of artificial intelligence that focuses on the development of algorithms and models that enable computers to learn from and make predictions or decisions based on data, without being explicitly programmed. It's like teaching a computer to learn from experience.
+apps:Predictive Analytics,Fraud Detection,Medical Diagnosis,Manufacturing,
+
+AI:
+===
+Artificial intelligence (AI) is a broad field of computer science that focuses on creating systems or machines capable of performing tasks that typically require human intelligence. 
+apps:Autonomous Vehicles,Robotics,
+
+Autoencoders:
+============
+An autoencoder is a type of ANN used in unsupervised machine learning and deep learning. Its primary purpose is to learn efficient representations of data through a process of encoding and decoding. Autoencoders are commonly used in tasks like data compression, noise reduction, and feature learning.
+
+Autoencoders have various applications, including image denoising, anomaly detection, dimensionality reduction, and feature learning.
+
+1	Encoder: The first part of an autoencoder, known as the encoder, takes the input data and compresses it into a 	lower-dimensional representation.
+2	Bottleneck Layer: The layer in the middle, called the bottleneck , contains the compressed representation of the input data. It captures the most essential features or patterns in the data.
+3	Decoder: The second part of the autoencoder, known as the decoder, takes the compressed representation from the bottleneck layer and attempts to reconstruct the original input data. The goal is to produce an output that is as close as possible to the input data
+
+
+Transfer Learning:
+==============
+Transfer learning is a machine learning technique where a model developed for one task is reused as the starting point for a model on a second task.
