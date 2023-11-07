@@ -1,0 +1,7 @@
+pip install matplotlib
+pip install seaborn
+pip install numpy
+pip install tensorflow
+pip install keras
+pip install pandas
+pip install torch
